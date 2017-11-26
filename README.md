@@ -5,7 +5,7 @@ This project is an exploration of OpenStreetMap data covering the Oxfordshire ar
 The map extract explored was a Mapzen custom extract and can be downloaded via the following link:
 https://mapzen.com/data/metro-extracts/your-extracts/bc9033c1da03The 
 
-The project write-up can be found in the file **OSM Data report.html**
+The project write-up can be found in the file **OSM Data report.md**
 
 This repository also contians a number of other files which were created as part of this project:
 
