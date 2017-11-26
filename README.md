@@ -3,11 +3,11 @@
 This project is an exploration of OpenStreetMap data covering the Oxfordshire area.
 
 The map extract explored was a Mapzen custom extract and can be downloaded via the following link:
-https://mapzen.com/data/metro-extracts/your-extracts/bc9033c1da03The 
+https://mapzen.com/data/metro-extracts/your-extracts/bc9033c1da03The
 
 The project write-up can be found in the file **OSM Data report.md**
 
-This repository also contians a number of other files which were created as part of this project:
+This repository also contains a number of other files which were created as part of this project:
 
 1. Python code used in auditing and cleaning the dataset:
     - **fixing_street_names_submission.py** -> For auditing street names
@@ -25,4 +25,3 @@ To help complete this project, the following were referred to:
   - For help with regex - https://docs.python.org/2/library/re.html
   - For help with SQL - https://www.w3schools.com/SQL/default.asp
   - For general help with how to set the project out, I referred to the sample project given as an example on the Udacity website, https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
-  
